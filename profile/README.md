@@ -27,15 +27,6 @@ is the hardware and firmware everything above gets tested on.
 [`latent-c`](https://github.com/fortunelabs-io/latent-c) carries the
 reference SDK for ESCP.
 
-## Repositories
-
-| Repo | What it is |
-|---|---|
-| [`cache-2-cache-lite`](https://github.com/fortunelabs-io/cache-2-cache-lite) | Proof of the semantic transfer mechanism at the LLM tier. |
-| [`direct-semantic-comm`](https://github.com/fortunelabs-io/direct-semantic-comm) | Proof of the same mechanism at the MCU tier. |
-| [`fortunelabs-mainboard-l`](https://github.com/fortunelabs-io/fortunelabs-mainboard-l) | Hardware and firmware for the mainboard everything gets tested on. |
-| [`latent-c`](https://github.com/fortunelabs-io/latent-c) | Reference SDK for ESCP. |
-
 ## Follow along
 
 We build in public: [Instagram](https://instagram.com/fortunelabs.io) · hello.fortunelabs@gmail.com
