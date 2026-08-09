@@ -36,10 +36,6 @@ reference SDK for ESCP.
 | [`fortunelabs-mainboard-l`](https://github.com/fortunelabs-io/fortunelabs-mainboard-l) | Hardware and firmware for the mainboard everything gets tested on. |
 | [`latent-c`](https://github.com/fortunelabs-io/latent-c) | Reference SDK for ESCP. |
 
-## Where we are
-
-Hong Kong.
-
 ## Follow along
 
 We build in public: [Instagram](https://instagram.com/fortunelabs.io) · hello.fortunelabs@gmail.com
