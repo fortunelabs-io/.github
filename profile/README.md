@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-White.svg" alt="FortuneLabs" width="240">
+<img src="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-White.svg" alt="FortuneLabs" width="360">
 
 We build the case, piece by piece, for a protocol that transfers meaning
 instead of raw data. We proved the mechanism first between two
