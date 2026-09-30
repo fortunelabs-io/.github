@@ -1,4 +1,8 @@
-# FortuneLabs
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="FortuneLabs-Full-Transparent-White.svg">
+  <source media="(prefers-color-scheme: light)" srcset="FortuneLabs-Full-Transparent-Navy.svg">
+  <img src="FortuneLabs-Full-Transparent-Navy.svg" alt="FortuneLabs" width="360">
+</picture>
 
 Direct semantic communication for constrained hardware.
 
@@ -26,7 +30,3 @@ is the hardware and firmware everything above gets tested on.
 
 [`latent-c`](https://github.com/fortunelabs-io/latent-c) carries the
 reference SDK for ESCP.
-
-## Follow along
-
-We build in public: [Instagram](https://instagram.com/fortunelabs.io) · hello.fortunelabs@gmail.com
