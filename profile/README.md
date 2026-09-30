@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-White-4x.svg" alt="FortuneLabs" width="360">
+<img src="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-White-4X.svg" alt="FortuneLabs" width="360">
 
 Direct semantic communication for constrained hardware.
 
