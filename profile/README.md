@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-White.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-Navy.svg">
-  <img src="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-Navy.svg" alt="FortuneLabs" width="360">
-</picture>
+<img src="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-White.svg" alt="FortuneLabs" width="360">
 
 Direct semantic communication for constrained hardware.
 
