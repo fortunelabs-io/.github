@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/fortunelabs-io/.github/main/profile/FortuneLabs-Full-Transparent-White.svg" alt="FortuneLabs" width="360">
 
-Direct semantic communication for constrained hardware.
-
 We build the case, piece by piece, for a protocol that transfers meaning
 instead of raw data. We proved the mechanism first between two
 independently trained language models. Now we're taking the same claim
